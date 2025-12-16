@@ -7,7 +7,7 @@ int main()
     res=reg^reg1;
     if(res==0xAA);
     {
-    printf("res of left shift is %8b",res);
+    printf("res of right  shift is %8b",res);
     
     }
     
